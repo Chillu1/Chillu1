@@ -8,5 +8,6 @@
 
 - C#, [ECS](https://github.com/Chillu1/CSharpECSComparison), & Deep Systems Enjoyer
 - Big fan of Go
+- Learning Zig and Rust
 
 Discord: Chillu#8847
